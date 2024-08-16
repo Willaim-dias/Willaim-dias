@@ -27,7 +27,7 @@ jobs:
           github_user_name: Willaim-dias
           outputs: |     
             dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.svg
+            
           colors: |
             #ff0000
             #00ff00
