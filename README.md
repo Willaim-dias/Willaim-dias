@@ -38,5 +38,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Willaim-dias/SEU_REPOSITORIO/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Willaim-dias/Willaim-dias/output/snake.svg" alt="Snake animation"/>
 
