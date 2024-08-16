@@ -38,5 +38,5 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/Willaim-dias/SEU_REPOSITORIO/output/snake.svg)
+<img src="https://raw.githubusercontent.com/Willaim-dias/SEU_REPOSITORIO/output/snake.svg" alt="Snake animation"/>
 
