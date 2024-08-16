@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: snake animation
 
 on:
   schedule: # execute every 12 hours
@@ -18,7 +18,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      - name: snake animation.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Willaim-dias
